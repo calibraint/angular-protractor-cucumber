@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- Object mappings -->
+<root>
+  <!--Objects For Facebook-->
+  <page name="Facebook">
+    <obj name="Login" attr="id" value="loginbutton"/>
+    <obj name="Email" attr="id" value="email"/>
+    <obj name="Password" attr="id" value="pass"/>
+  </page>
+</root>
